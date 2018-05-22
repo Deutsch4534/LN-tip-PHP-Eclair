@@ -128,9 +128,10 @@ switch( $_POST['Action'] ) {
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="lightningTip.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script async defer src="https://cdn.rawgit.com/kazuhikoarase/qrcode-generator/886a247e/js/qrcode.js"></script>
     <script async defer src="lightningTip.js"></script>
+    <link rel="stylesheet" href="lightningTip.css">
     <title>⚡ Lightning Tip</title>
 </head>
 
